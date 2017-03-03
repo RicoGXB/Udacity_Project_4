@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_single"
+    style="@style/HeightWrapContent"
+    tools:context="com.example.android.projectfour.SingleActivity">
+
+    <LinearLayout
+        style="@style/HeightWrapContent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/single_list_1"
+            style="@style/SingleListCanvasStyle"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/SingleListMusicNameStyle"
+                android:text="@string/single_list_music1_cyx_bysh" />
+
+            <TextView
+                style="@style/SingleListMusicInfoStyle"
+                android:text="@string/single_list_album1_cyx_bxfs" />
+
+            <ImageView
+                style="@style/SingleListMusicIconStyle"
+                android:src="@drawable/icon_play" />
+
+            <TextView style="@style/SingleListMusicBorderBottomStyle" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/single_list_2"
+            style="@style/SingleListCanvasStyle"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/SingleListMusicNameStyle"
+                android:text="@string/single_list_music2_cyx_djdw" />
+
+            <TextView
+                style="@style/SingleListMusicInfoStyle"
+                android:text="@string/single_list_album1_cyx_bxfs" />
+
+            <ImageView
+                style="@style/SingleListMusicIconStyle"
+                android:src="@drawable/icon_play" />
+
+            <TextView style="@style/SingleListMusicBorderBottomStyle" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/single_list_3"
+            style="@style/SingleListCanvasStyle"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/SingleListMusicNameStyle"
+                android:text="@string/single_list_music3_cyx_yw" />
+
+            <TextView
+                style="@style/SingleListMusicInfoStyle"
+                android:text="@string/single_list_album2_cyx_rlb" />
+
+            <ImageView
+                style="@style/SingleListMusicIconStyle"
+                android:src="@drawable/icon_play" />
+
+            <TextView style="@style/SingleListMusicBorderBottomStyle" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/single_list_4"
+            style="@style/SingleListCanvasStyle"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/SingleListMusicNameStyle"
+                android:text="@string/single_list_music4_cyx_tt" />
+
+            <TextView
+                style="@style/SingleListMusicInfoStyle"
+                android:text="@string/single_list_album2_cyx_rlb" />
+
+            <ImageView
+                style="@style/SingleListMusicIconStyle"
+                android:src="@drawable/icon_play" />
+
+            <TextView style="@style/SingleListMusicBorderBottomStyle" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/single_list_5"
+            style="@style/SingleListCanvasStyle"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/SingleListMusicNameStyle"
+                android:text="@string/single_list_music5_wf_am" />
+
+            <TextView
+                style="@style/SingleListMusicInfoStyle"
+                android:text="@string/single_list_album3_wf_fccq" />
+
+            <ImageView
+                style="@style/SingleListMusicIconStyle"
+                android:src="@drawable/icon_play" />
+
+            <TextView style="@style/SingleListMusicBorderBottomStyle" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/single_list_6"
+            style="@style/SingleListCanvasStyle"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/SingleListMusicNameStyle"
+                android:text="@string/single_list_music6_wf_yd" />
+
+            <TextView
+                style="@style/SingleListMusicInfoStyle"
+                android:text="@string/single_list_album3_wf_fccq" />
+
+            <ImageView
+                style="@style/SingleListMusicIconStyle"
+                android:src="@drawable/icon_play" />
+
+            <TextView style="@style/SingleListMusicBorderBottomStyle" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/single_list_7"
+            style="@style/SingleListCanvasStyle"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/SingleListMusicNameStyle"
+                android:text="@string/single_list_music7_wf_wyy" />
+
+            <TextView
+                style="@style/SingleListMusicInfoStyle"
+                android:text="@string/single_list_album3_wf_fccq" />
+
+            <ImageView
+                style="@style/SingleListMusicIconStyle"
+                android:src="@drawable/icon_play" />
+
+            <TextView style="@style/SingleListMusicBorderBottomStyle" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/single_list_8"
+            style="@style/SingleListCanvasStyle"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/SingleListMusicNameStyle"
+                android:text="@string/single_list_music8_wf_zqc" />
+
+            <TextView
+                style="@style/SingleListMusicInfoStyle"
+                android:text="@string/single_list_album4_wf_zqc" />
+
+            <ImageView
+                style="@style/SingleListMusicIconStyle"
+                android:src="@drawable/icon_play" />
+
+            <TextView style="@style/SingleListMusicBorderBottomStyle" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/single_list_9"
+            style="@style/SingleListCanvasStyle"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/SingleListMusicNameStyle"
+                android:text="@string/single_list_music9_zjl_hjbj" />
+
+            <TextView
+                style="@style/SingleListMusicInfoStyle"
+                android:text="@string/single_list_album5_zjl_ksd" />
+
+            <ImageView
+                style="@style/SingleListMusicIconStyle"
+                android:src="@drawable/icon_play" />
+
+            <TextView style="@style/SingleListMusicBorderBottomStyle" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/single_list_10"
+            style="@style/SingleListCanvasStyle"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/SingleListMusicNameStyle"
+                android:text="@string/single_list_music10_zjl_hh" />
+
+            <TextView
+                style="@style/SingleListMusicInfoStyle"
+                android:text="@string/single_list_album6_zjl_mjz" />
+
+            <ImageView
+                style="@style/SingleListMusicIconStyle"
+                android:src="@drawable/icon_play" />
+
+            <TextView style="@style/SingleListMusicBorderBottomStyle" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/single_list_11"
+            style="@style/SingleListCanvasStyle"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/SingleListMusicNameStyle"
+                android:text="@string/single_list_music11_zjl_sy" />
+
+            <TextView
+                style="@style/SingleListMusicInfoStyle"
+                android:text="@string/single_list_album7_zjl_sexz" />
+
+            <ImageView
+                style="@style/SingleListMusicIconStyle"
+                android:src="@drawable/icon_play" />
+
+            <TextView style="@style/SingleListMusicBorderBottomStyle" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/single_list_12"
+            style="@style/SingleListCanvasStyle"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/SingleListMusicNameStyle"
+                android:text="@string/single_list_music12_zjl_mmj" />
+
+            <TextView
+                style="@style/SingleListMusicInfoStyle"
+                android:text="@string/single_list_album7_zjl_sexz" />
+
+            <ImageView
+                style="@style/SingleListMusicIconStyle"
+                android:src="@drawable/icon_play" />
+
+            <TextView style="@style/SingleListMusicBorderBottomStyle" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</ScrollView>
+

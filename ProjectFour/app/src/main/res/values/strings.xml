@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ProjectFour</string>
+    <string name="app_local_main_name">音乐播放器</string>
+    <string name="app_local_single_name">音乐列表</string>
+    <string name="popular_singer">热门歌手</string>
+    <string name="recommendation">推荐专辑</string>
+
+    <!-- The music of 陈奕迅 -->
+    <string name="single_list_music1_cyx_bysh">不要说话</string>
+    <string name="single_list_music2_cyx_djdw">独居动物</string>
+    <string name="single_list_music3_cyx_yw">烟味</string>
+    <string name="single_list_music4_cyx_tt">淘汰</string>
+    <string name="single_list_album1_cyx_bxfs">陈奕迅 · 《不想放手》</string>
+    <string name="single_list_album2_cyx_rlb">陈奕迅 · 《认了吧》</string>
+
+    <!-- The music of 王菲 -->
+    <string name="single_list_music5_wf_am">暧昧</string>
+    <string name="single_list_music6_wf_yd">约定</string>
+    <string name="single_list_music7_wf_wyy">我愿意</string>
+    <string name="single_list_music8_wf_zqc">致青春</string>
+    <string name="single_list_album3_wf_fccq">王菲 · 《菲常传奇》</string>
+    <string name="single_list_album4_wf_zqc">王菲 · 《致青春》</string>
+
+    <!-- The music of 周杰伦 -->
+    <string name="single_list_music9_zjl_hjbj">好久不见</string>
+    <string name="single_list_music10_zjl_hh">花海</string>
+    <string name="single_list_music11_zjl_sy">手语</string>
+    <string name="single_list_music12_zjl_mmj">明明就</string>
+    <string name="single_list_album5_zjl_ksd">周杰伦 · 《跨时代》</string>
+    <string name="single_list_album6_zjl_mjz">周杰伦 · 《摩羯座》</string>
+    <string name="single_list_album7_zjl_sexz">周杰伦 · 《十二新作》</string>
+
+    <!-- The Tag of icon resource -->
+    <string name="res_id_icon_play">R.drawable.icon_play</string>
+    <string name="res_id_icon_pause">R.drawable.icon_pause</string>
+
+    <!-- Toast  -->
+    <string name="the_end">已快进到最后一首歌曲</string>
+    <string name="the_begin">已后退到第一首歌曲</string>
+
+    <!-- Timer  -->
+    <string name="the_timer_begin">00:00</string>
+    <string name="the_timer_end">03:20</string>
+
+</resources>
